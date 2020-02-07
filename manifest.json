@@ -1,0 +1,11 @@
+{
+  "name": "ez-Sync",
+  "version": "1.0",
+  "permissions": ["storage", "bookmarks", "alarms"],
+  "options_page": "options.html",
+  "background": {
+    "scripts": ["background.js"],
+    "persistent": false
+  },
+  "manifest_version": 2
+}
